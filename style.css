@@ -68,3 +68,16 @@ body{
     padding-right: 25px;
     margin: 1%;
 }
+.other-amount{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.774);
+    margin-bottom: 8%;
+}
+.other-amount p{
+    margin-bottom: 0%;
+}
+hr{
+    margin-bottom: 3%;
+    width: 52%;
+    color: rgba(0, 0, 0, 0.774);
+}
