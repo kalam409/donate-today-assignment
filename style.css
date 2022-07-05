@@ -45,4 +45,26 @@ body{
 .donate-today h1{
     font-weight: 900;
     font-size: 42px;
+    margin-bottom: 0%;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+#price{
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+}
+.price-list{
+    text-align: center;
+    background-color: #e6e6e6;
+    border: 2px solid #e6e6e6;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 1%;
 }
