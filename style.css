@@ -75,9 +75,12 @@ body{
     color: rgba(0, 0, 0, 0.774);
     margin-bottom: 8%;
 }
-.other-amount p{
+.other-amount input{
+    font-size: 18px;
+    border: none;
     margin-bottom: 0%;
     margin-top: 2%;
+    margin-left: 4%;
 }
 hr{
     margin-bottom: 3%;
@@ -171,21 +174,23 @@ hr{
 .form-area input{
     background-color: #D9D9D9;
     border: none;
-    border-radius: 2px;
+    border-top-left-radius: 4px;
     padding-top: 13px;
     padding-bottom: 13px;
     padding-left: 10px;
     padding-right: 10px;
     position: absolute;
 }
-.form-area label{
+.form-area button{
+    font-size: 14px;
     color: white;
     background-color: #FF5959;
-    border-radius: 2px;
+    border: none;
+    border-radius: 4px;
     padding-top: 10px;
-    padding-bottom: 11px;
-    padding-left: 200px;
-    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 210px;
+    padding-right: 20px;
     position: absolute;
 }
 footer{
