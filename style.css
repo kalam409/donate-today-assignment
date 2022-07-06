@@ -187,3 +187,21 @@ hr{
     padding-right: 10px;
     position: absolute;
 }
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer h1{
+    color: #FF5959;
+    font-size: 34px;
+    font-family: 'Lobster', cursive;
+    font-weight: 300;
+    margin: 0%;
+}
+footer p{
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 12px;
+}
