@@ -47,6 +47,9 @@ body{
     font-size: 42px;
     margin-bottom: 0%;
 }
+.donate-today p{
+    color: rgba(0, 0, 0, 0.774);
+}
 .box{
     display: flex;
     align-items: center;
@@ -80,4 +83,48 @@ hr{
     margin-bottom: 3%;
     width: 52%;
     color: rgba(0, 0, 0, 0.774);
+}
+#plan-box{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.plan-box-1{
+    background-color: #EDF5F6;
+    border-radius: 4px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 0px;
+    margin: 1%;
+}
+.plan-box-1 p{
+    color: rgba(0, 0, 0, 0.774);
+    font-size: 14px;
+}
+.plan-box-2{
+    background-color: #FFEEEE;
+    border-radius: 4px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 0px;
+    margin: 1%;
+}
+.plan-box-2 p{
+    color: rgba(0, 0, 0, 0.774);
+    font-size: 14px;
+}
+.plan-box-3{
+    background-color: #FFF4D6;
+    border-radius: 4px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 0px;
+    margin: 1%;
+}
+.plan-box-3 p{
+    color: rgba(0, 0, 0, 0.774);
+    font-size: 14px;
 }
